@@ -17,7 +17,7 @@ Please make sure you have the following tools installed before running the proje
    ```
 2. Navigate to the project directory `cd scorecard-api`
 3. Install dependencies using `npm install`
-4. Run `npm start` to start the local development server 
+4. Run `npm start` to start the local development environment 
 
 ## API Endpoints
 
