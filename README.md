@@ -19,5 +19,17 @@ Please make sure you have the following tools installed before running the proje
 3. Install dependencies using `npm install`
 4. Run `npm start` to start the local development environment 
 
+## API Endpoints
+
+`/:` The root route
+
+`/get/:id:` The route for getting the total scores for a specific player
+
+`/post:` The route for adding or updating player scores
+
+`/top:` The route for getting the leaderboard
+
+
+
 
 
